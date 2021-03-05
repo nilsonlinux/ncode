@@ -7,7 +7,7 @@
 Código fonte e pacote .deb, será disponível em breve.
 
 ![image](https://user-images.githubusercontent.com/22534130/110176048-7ccf3500-7de1-11eb-8788-54f368855eda.png)
-![image](https://user-images.githubusercontent.com/22534130/110176216-b7d16880-7de1-11eb-9f53-4bfac4ce0f9b.png)
+![image](https://user-images.githubusercontent.com/22534130/110176442-0d0d7a00-7de2-11eb-9798-d85be1c009c4.png)
 ![NCODE](https://github.com/nilsonlinux/ncode/blob/main/img/ncode2.png)
 
 ![image](https://user-images.githubusercontent.com/22534130/110146298-277f2d80-7db9-11eb-9552-5eddb83ee17d.png)
