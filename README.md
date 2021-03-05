@@ -1,2 +1,2 @@
 # ncode
-Criador de códigos de barras tipo EAN13. 
+Criador de código de barras tipo EAN13. 
