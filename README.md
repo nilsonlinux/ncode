@@ -1,8 +1,8 @@
 # ncode
 ## Criador de código de barras tipo EAN13.
 
-Idéia e desenvolvimento do código: Nilsonlinux
-Design: logo e ícone: Jerbeson
+Idéia e desenvolvimento do código: Nilsonlinux  
+Design: logo e ícone: Jerbeson  
 
 Código fonte e pacote .deb, será disponível em breve.
 
