@@ -8,4 +8,6 @@ Código fonte e pacote .deb, será disponível em breve.
 
 ![image](https://user-images.githubusercontent.com/22534130/110146298-277f2d80-7db9-11eb-9552-5eddb83ee17d.png)
 ![image](https://user-images.githubusercontent.com/22534130/110146474-63b28e00-7db9-11eb-8498-63066791fe0e.png)
+![image](https://user-images.githubusercontent.com/22534130/110146723-a96f5680-7db9-11eb-92ae-2596f4adcdc9.png)
+
 
