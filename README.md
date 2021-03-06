@@ -20,3 +20,8 @@
 https://github.com/nilsonlinux/ncode/raw/main/ncode_amd64.deb
 
 Lançado em 05/03/2021
+
+License
+-------
+
+The contents of this repository are licensed under the [GNU Public License.](http://www.gnu.org/licenses/gpl-3.0.html)
