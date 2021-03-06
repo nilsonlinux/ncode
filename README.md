@@ -3,7 +3,7 @@
 
 * Desenvolvedor: ```Nilsonlinux```  
 * Design: logo e ícone: ```Jerbeson```  
-* ![ncode Stars](https://img.shields.io/github/downloads/nilsonlinux/ncode/total.svg?style=social)
+* ![ncode Stars](https://github.com/nilsonlinux/ncode/raw/main/ncode_amd64.deb)
 * ![GitHub All Releases](https://img.shields.io/github/downloads/nilsonlinux/ncode/total.svg)
 
 
@@ -17,7 +17,6 @@
 ![image](https://user-images.githubusercontent.com/22534130/110147133-12ef6500-7dba-11eb-8e77-4a739f3f9204.png)
 ![image](https://user-images.githubusercontent.com/22534130/110188959-54a0ff80-7dfc-11eb-816f-18d8e8420389.png)
 
-https://github.com/nilsonlinux/ncode/raw/main/ncode_amd64.deb
 
 Lançado em 05/03/2021
 
