@@ -6,7 +6,7 @@
 
 
 * ![ncode_amd64.deb](https://github.com/nilsonlinux/ncode/raw/main/ncode_amd64.deb)
-* ![GitHub All Releases](https://img.shields.io/github/downloads/nilsonlinux/ncode/total.svg)
+![Profile views](https://gpvc.arturio.dev/[nilsonlinux])
 
 
 ![image](https://user-images.githubusercontent.com/22534130/110176048-7ccf3500-7de1-11eb-8788-54f368855eda.png)
