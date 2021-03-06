@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Ncode
+Icon=/usr/bin/ncode/img/ncode.png
+Type=Application
+Categories=GNOME;GTK;Utility;TextEditor;
+Exec=bash /usr/bin/ncode/ncode.sh
+StartupNotify=false
+Terminal=false
+Name[pt_BR]=Ncode

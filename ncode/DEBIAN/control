@@ -1,0 +1,13 @@
+Package: ncode
+Version: 1.2
+Installed-Size: 6580
+Maintainer: Nilsonlinux <nilsonlinux@gmail.com>
+Section: Shell script
+Source: ncode
+Homepage: https://sistemanpdvs.github.io
+Architecture: all
+Priority: optional
+Depends: yad, sox, mpv, git
+Description: Gerador de códigos EAN-13 para criação de usuários para acesso maxipos terminal
+ Dev: Nilsonlinux
+ SUPORTE T.I REGIONAL SANTA INÊS2
