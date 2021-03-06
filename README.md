@@ -4,7 +4,6 @@
 * Desenvolvedor: ```Nilsonlinux```  
 * Design: logo e ícone: ```Jerbeson```   
 
-Código fonte e pacote .deb, será disponível em breve.
 
 ![image](https://user-images.githubusercontent.com/22534130/110176048-7ccf3500-7de1-11eb-8788-54f368855eda.png)
 ![image](https://user-images.githubusercontent.com/22534130/110179635-2cf36c80-7de7-11eb-85cd-0ef0f8793f57.png)
