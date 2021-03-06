@@ -2,7 +2,8 @@
 ## Criador de código de barras tipo EAN13.
 
 * Desenvolvedor: ```Nilsonlinux```  
-* Design: logo e ícone: ```Jerbeson```   
+* Design: logo e ícone: ```Jerbeson```  
+* ![ncode Stars](https://img.shields.io/github/downloads/ctlos/ctlosiso/total.svg?style=social) [![GitHub All Releases](https://img.shields.io/github/stars/ctlos/ctlosiso?style=social&logo=github)](https://github.com/ctlos/ctlosiso/stargazers) 
 
 
 ![image](https://user-images.githubusercontent.com/22534130/110176048-7ccf3500-7de1-11eb-8788-54f368855eda.png)
