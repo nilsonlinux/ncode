@@ -3,7 +3,9 @@
 
 * Desenvolvedor: ```Nilsonlinux```  
 * Design: logo e ícone: ```Jerbeson```  
-* ![ncode_stable_x84.deb](https://github.com/nilsonlinux/ncode/raw/main/ncode_amd64.deb)
+
+
+* ![ncode_amd64.deb](https://github.com/nilsonlinux/ncode/raw/main/ncode_amd64.deb)
 * ![GitHub All Releases](https://img.shields.io/github/downloads/nilsonlinux/ncode/total.svg)
 
 
