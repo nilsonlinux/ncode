@@ -11,8 +11,8 @@
 ![Licence](https://img.shields.io/github/license/nilsonlinux/ncode)
 
 
-![image](https://user-images.githubusercontent.com/22534130/110176048-7ccf3500-7de1-11eb-8788-54f368855eda.png)
-![image](https://user-images.githubusercontent.com/22534130/110179635-2cf36c80-7de7-11eb-85cd-0ef0f8793f57.png)
+![image](https://github.com/nilsonlinux/ncode/blob/main/img/ncode.png)
+![image](https://github.com/nilsonlinux/ncode/blob/main/img/ncode1.png)
 ![NCODE](https://github.com/nilsonlinux/ncode/blob/main/img/ncode2.png)
 
 ![image](https://user-images.githubusercontent.com/22534130/110146298-277f2d80-7db9-11eb-9552-5eddb83ee17d.png)
